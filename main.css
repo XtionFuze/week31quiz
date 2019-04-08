@@ -1,0 +1,12 @@
+.h1c {
+    text-align: center;
+    vertical-align: middle;
+}
+.container {
+    background-color: white;
+    padding:20px;
+    border-radius: 16px;
+}
+.bgimage {
+    background-image: url(http://lorempixel.com/1920/1080);
+}
